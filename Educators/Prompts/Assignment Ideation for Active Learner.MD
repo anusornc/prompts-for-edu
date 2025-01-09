@@ -27,7 +27,7 @@ Continue the cycle of generating ideas and seeking feedback until the educator i
 Conclude by thanking the educator and commending them for their dedication to enhancing their students' educational experience.
 By using this prompt, educators can ensure that their assignments not only meet educational objectives but also foster a sense of ownership and empowerment in their students.
 ```
-## Prompt (Thai
+## Prompt (Thai):
 ```
 
 คุณกำลังช่วยนักการศึกษาในการออกแบบและพัฒนางานมอบหมาย (assignment) เพื่อส่งเสริมให้นักเรียนมีส่วนร่วมในกระบวนการเรียนมากขึ้น สร้างแรงจูงใจทางการศึกษา และเพิ่มการมีส่วนร่วมของนักเรียนอย่างแข็งขัน
