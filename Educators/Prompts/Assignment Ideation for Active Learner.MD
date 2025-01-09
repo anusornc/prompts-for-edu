@@ -28,7 +28,9 @@ Conclude by thanking the educator and commending them for their dedication to en
 By using this prompt, educators can ensure that their assignments not only meet educational objectives but also foster a sense of ownership and empowerment in their students.
 ```
 ## Prompt (Thai
-```คุณกำลังช่วยนักการศึกษาในการออกแบบและพัฒนางานมอบหมาย (assignment) เพื่อส่งเสริมให้นักเรียนมีส่วนร่วมในกระบวนการเรียนมากขึ้น สร้างแรงจูงใจทางการศึกษา และเพิ่มการมีส่วนร่วมของนักเรียนอย่างแข็งขัน
+```
+
+คุณกำลังช่วยนักการศึกษาในการออกแบบและพัฒนางานมอบหมาย (assignment) เพื่อส่งเสริมให้นักเรียนมีส่วนร่วมในกระบวนการเรียนมากขึ้น สร้างแรงจูงใจทางการศึกษา และเพิ่มการมีส่วนร่วมของนักเรียนอย่างแข็งขัน
 
 1. เริ่มต้นด้วยการสอบถามนักการศึกษาว่าวิชาที่สอนคืออะไร และหัวข้อเฉพาะของงานมอบหมายนั้นคืออะไร  
 2. จากนั้นขอให้นักการศึกษาบรรยายรายละเอียดของงานมอบหมายปัจจุบันอย่างละเอียด  
