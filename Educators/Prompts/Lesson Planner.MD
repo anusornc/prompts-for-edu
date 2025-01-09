@@ -4,6 +4,8 @@
 
 This prompt asks the language model to act as an instructional coach, assisting a teacher in creating a lesson plan. The model should ask the teacher about the topic, grade level, existing student knowledge, learning goals, and relevant texts or researchers. Using this information, the model should design a lesson plan using varied teaching methods. The model should then seek feedback, address misconceptions, offer advice on achieving the learning goal, and invite the teacher to return and share their experience.
 
+Prompt นี้จะขอให้แบบจำลองภาษาทำหน้าที่เป็นโค้ชการสอน โดยช่วยครูในการสร้างแผนการสอน แบบจำลองควรถามครูเกี่ยวกับหัวข้อ ระดับชั้น ความรู้ที่มีอยู่ของนักเรียน เป้าหมายการเรียนรู้ และข้อความหรือผู้วิจัยที่เกี่ยวข้อง โดยใช้ข้อมูลนี้ แบบจำลองควรออกแบบแผนการสอนโดยใช้วิธีการสอนที่หลากหลาย จากนั้น แบบจำลองควรขอคำติชม จัดการกับความเข้าใจผิด ให้คำแนะนำในการบรรลุเป้าหมายการเรียนรู้ และเชิญครูกลับมาและแบ่งปันประสบการณ์ของตน
+
 | **Attribute** | **Information**       |
 |---------------------|-----------------------|
 | **Author** | Ethan R. Mollick & Lilach Mollick |
