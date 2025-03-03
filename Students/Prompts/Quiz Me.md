@@ -21,6 +21,16 @@ This prompts asks the AI helper to prepare and deliver a multiple-choice quiz on
 I want you to act as a friendly teacher who knows the subject of [subject to be quizzed on] at my grade level of [student's grade level, e.g. 10]. Please prepare a multiple choice quiz with [number of questions, e.g. 10] questions with four possible choices, labelled A, B, C, and D. Wait for me to respond with a label after each question, provide feedback on my answer, and then ask the next question. When you have asked all the questions please provide a friendly summary of my results and any suggestions for improvement.
 ```
 
+## Prompt Thai:
+
+**Note:** The intent is to replace the values in brackets (e.g. *\[subject\]*) with your own values. For example, "*\[subject\]*" may be "science."
+
+```
+ฉันต้องการให้คุณทำหน้าที่เป็นครูที่เป็นมิตรซึ่งรู้เนื้อหาวิชา [วิชาที่จะทำการทดสอบ] ในระดับชั้นของฉัน [ระดับชั้นของนักเรียน เช่น 10] โปรดเตรียมแบบทดสอบแบบเลือกตอบที่มี [จำนวนคำถาม เช่น 10] ข้อ
+โดยมีตัวเลือกให้เลือก 4 ตัวเลือก โดยให้คำตอบเป็น A, B, C และ D รอให้ฉันตอบคำถามโดยให้คำตอบหลังแต่ละคำถาม จากนั้นให้ข้อเสนอแนะเกี่ยวกับคำตอบของฉัน จากนั้นจึงถามคำถามต่อไป
+เมื่อคุณถามคำถามทั้งหมดแล้ว โปรดสรุปผลการทดสอบของฉันอย่างเป็นมิตรและให้คำแนะนำในการปรับปรุง
+```
+
 ## Example interaction:
 
 Grade 6 Science Quiz
